@@ -1,0 +1,65 @@
+body {
+  background: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+  padding: 0;
+}
+
+h1 {
+  color: #301b3f;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  display: block;
+  border: 5px solid #301b3f;
+  border-radius: 10px;
+}
+h2 {
+  color: #301b3f;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  border: 5px solid #301b3f;
+  border-radius: 10px;
+}
+h3 {
+  color: #301b3f;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  border: 5px solid #301b3f;
+  border-radius: 10px;
+}
+.container {
+  color: #301b3f;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  display: block;
+}
+
+.col-3 {
+  color: #301b3f;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  display: block;
+  border: 5px solid #301b3f;
+  border-radius: 10px;
+}
+
+.col-6 {
+  color: #301b3f;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  display: block;
+  border: 5px solid #301b3f;
+  border-radius: 10px;
+}
